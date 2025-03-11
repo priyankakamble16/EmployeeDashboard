@@ -2,7 +2,7 @@
   "employees": [
     {
       "id": "2",
-      "name": "neha",
+      "name": "shreya",
       "position": "analyst",
       "salary": "1000"
     },
@@ -26,9 +26,9 @@
     },
     {
       "id": "5",
-      "name": "Raman",
-      "position": "HR",
-      "salary": "12000"
+      "name": "snehal",
+      "position": "analyst",
+      "salary": "10000"
     }
   ]
 }
